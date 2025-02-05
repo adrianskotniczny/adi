@@ -18,7 +18,7 @@ exports.RAYDIUM_PROGRAM_IDS = [
 // Endpoint (np. Helius, QuickNode, itp.)
 // W przykładzie dajemy standardowy clusterApiUrl 'mainnet-beta' –
 // ale warto wstawić swój szybki endpoint:
-exports.RPC_URL = 'https://api.mainnet-beta.solana.com';
+exports.RPC_URL = 'https://mainnet.helius-rpc.com/?api-key=3a0141e2-0c3c-4bbc-81e8-5c6843fb3f2c';
 
 // Limit zapytań na sekundę
 exports.REQUESTS_PER_SECOND = 10;
